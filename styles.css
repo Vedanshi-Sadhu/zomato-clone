@@ -29,7 +29,6 @@
 .navbar__menu_container{
     display: flex;
     gap: 18px;
-    /* padding-right: 18px; */
 }
 
 .navbar__menu_container .user_icon{
@@ -42,7 +41,6 @@
     border: solid 1px white;
     display: none;
 }
-
 
 .hero__section_container{
     display: flex;
@@ -57,7 +55,6 @@
 .hero__section_logo{
     width: 200px;
     height: 40px;
-    /* height: auto; */
 }
 
 .hero__section_title{
@@ -83,8 +80,6 @@
     border: none;
     outline: none;
 }
-
-
 
 .input_container_location{
     width: 35%;
